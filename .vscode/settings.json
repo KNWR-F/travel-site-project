@@ -1,0 +1,5 @@
+{
+    "color-highlight.markerType": "dot-after",
+    "color-highlight.matchWords": true,
+    "editor.wordWrap": "bounded"
+}
