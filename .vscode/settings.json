@@ -1,5 +1,6 @@
 {
-    "color-highlight.markerType": "dot-after",
-    "color-highlight.matchWords": true,
-    "editor.wordWrap": "bounded"
+    "color-highlight.markerType": "",
+    "editor.wordWrap": "bounded",
+    "color-highlight.enable": false,
+    "color-highlight.markRuler": false
 }
